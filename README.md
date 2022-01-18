@@ -1,5 +1,3 @@
-<style type="text/css" rel="stylesheet">
-
 section{
     display: flex
 }
@@ -42,8 +40,8 @@ The holidays are fast approaching and you could use a hand in keeping your shopp
 
 ## Links:
 
-- [Deployment](https://holiday-chaos-coordinator.herokuapp.com/)
-- [GitHub](https://github.com/katharinechumble/musical-telegram)
+- [Deployment](https://holiday-chaos-dz.herokuapp.com/)
+- [GitHub](https://github.com/dzamanillo/target-shopping)
 
 ## Contribution
 
