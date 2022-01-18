@@ -65,6 +65,7 @@ export const productSearch = async (query) => {
 
 		return searchData;
 	} catch (err) {
+		console.log("that didn't work");
 		console.log(err);
 	}
 };
